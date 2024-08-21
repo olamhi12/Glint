@@ -21,7 +21,7 @@ header {
 #Home:hover {
     cursor: pointer;
 }
-main {
+.main {
     display: flex;
     margin-top: 150px;
     margin-left: 180px;
@@ -102,7 +102,7 @@ h3:hover {
     h2 {
         font-size: 2rem;
     }
-    main {
+    .main {
         flex-direction: column;
         margin-left: 0;
         /* justify-content: center; */
